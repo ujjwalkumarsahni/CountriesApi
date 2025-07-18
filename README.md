@@ -181,11 +181,6 @@ DATABASE_URL=your_database_url</code></pre>
     <p>Contributions are welcome! Please fork the repository and create a pull request. For major changes, please open an issue first to discuss what you would like to change.</p>
 </div>
 
-## License
-
-<div class="container">
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-</div>
 
 ## Acknowledgments
 
